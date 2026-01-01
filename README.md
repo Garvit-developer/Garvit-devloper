@@ -72,6 +72,6 @@ I am a passionate **Full Stack Developer** from India with hands-on experience i
       alt="GitHub Streak Stats"
     />
   </a>
-</p>
+</p> 
 
 

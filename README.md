@@ -1,16 +1,17 @@
 # Hi, I’m Garvit Dani
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=3B82F6&width=500&lines=Full+Stack+Developer;MERN+Stack+Specialist;Build+Scalable+Solutions;UI%2FUX+Enthusiast" alt="Typing SVG" />
-</p>
-  <!-- Intro & Portfolio Link -->
-  <b>
-    <font size="+1">
-      I craft high-performance web applications with a focus on intuitive UI/UX and scalable architecture.
-        Skilled in React, Node.js, RESTful services, and API integrations, delivering scalable solutions that enhance user experience and improve operational efficiency.
-    </font>
-  </b>
-  
-  <br/><br/>
+
+<div>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=3B82F6&width=500&lines=Full+Stack+Developer;MERN+Stack+Specialist;Build+Scalable+Solutions;UI%2FUX+Enthusiast"
+    alt="Typing SVG"
+  />
+
+  <p>
+    I craft high-performance web applications with a focus on intuitive UI/UX and scalable architecture.
+    Skilled in React, Node.js, RESTful services, and API integrations, delivering scalable solutions that
+    enhance user experience and improve operational efficiency.
+  </p>
+</div>
 
 <!-- Dashboard Layout -->
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
